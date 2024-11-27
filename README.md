@@ -1,6 +1,6 @@
 # Car Sales Analysis
 
-## Tools: Python, SQL, Tableau
+## Tools: Python, SQL, PowerBI
 
 ### SQL: Joined Tables and Added Calculated Column
 ```
